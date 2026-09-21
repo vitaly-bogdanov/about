@@ -1,0 +1,9 @@
+node_modules
+dist
+coverage
+.git
+.env
+*.pdf
+deal.md
+README.md
+*.md
